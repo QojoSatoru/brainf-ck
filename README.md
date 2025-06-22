@@ -1,4 +1,4 @@
-# brainf-ck Projem
+# brainf-ck Projects
 
 Benim Brainf-ck projelerim / My Brainf-ck Projects
 
