@@ -5,3 +5,5 @@ Benim Brainf-ck projelerim / My Brainf-ck Projects
 - hello-world.bf
     - Sadece konsola `Hello, World!` yazdırır.
     - Just write console `Hello, World!`
+
+*Kodların hepsi bana aittir / All code is my original work*
